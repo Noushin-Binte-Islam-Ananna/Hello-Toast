@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="Free_Speech_Blue">#3F51B5</color>
+    <color name="yellow">#FFFFEB3B</color>
+</resources>
